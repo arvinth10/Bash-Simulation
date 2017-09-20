@@ -1,0 +1,14 @@
+Class Name: cat
+
+Parent Class: Command
+
+Subclasses:
+
+Responsibilities:
+* Gets the contents of a certain file
+
+Collaborators:
+* File
+* STDOUT
+* STDERR
+* FileSystem

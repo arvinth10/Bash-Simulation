@@ -1,0 +1,22 @@
+Class name: JShell
+
+Parent Class: - 
+
+Subclass: -
+
+Responsibilities:
+
+* The JShell class is responsible for prompting the user for input.
+* JShell is also responsible for taking those commands and executing them if they are valid.
+
+Collaborators:
+* Cat
+* Cd
+* Echo
+* History
+* Ls
+* Mkdir
+* Pushd
+* Pwd
+* Man
+* Validator

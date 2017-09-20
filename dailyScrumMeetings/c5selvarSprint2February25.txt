@@ -1,0 +1,12 @@
+What did I work on last time?
+	- Completed History class
+	- Implemented method to an Array List of all recent commands
+	- Implemented another method to return a list of all recent commands after a specific numbe
+	- Almost done Mkdir class implementation
+What do I plan to do now?
+	- Finish Mkdir class coding
+	- Begin working on an stdout and stderr class to output results and errors that are produced by history commands, cat command, and others,
+	- Consult with group and instructor on our current Design for program and what improvements we can make
+Am I blocked on anything?
+	- Instructor suggested to use polymorphism for standard output and standard error classes, but I do not really understand what polymorphism really is at the moment.
+

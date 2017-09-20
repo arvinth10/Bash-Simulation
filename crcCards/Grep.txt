@@ -1,0 +1,10 @@
+Class name: Grep
+
+Parent Class: Command
+
+Subclasses: -
+
+Responsibilities: 
+	- Allow the user to see where certain types of patterns (REGEX) are stored in the file sysyem.
+Collaborators: 
+	- Echo

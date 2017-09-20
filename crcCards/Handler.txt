@@ -1,0 +1,13 @@
+Class name: Handler
+
+Parent class: -
+
+Subclasses: -
+
+Responsibilities:
+ 
+* Keep track of the current working directory. 
+* Change the current working directory.
+* Save the current working directory whenever user wishes. Also allow user to access the last directory he/she had saved.
+
+Collaborators: -

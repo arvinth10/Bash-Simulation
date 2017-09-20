@@ -1,0 +1,21 @@
+                           User Stories                                                                   Time Estimate (Hours)
+
+1. As a user I want to control the file system through keyboard inputs				                 			Completed 
+2. As a user I expect to be notified if I enter an invalid input                                                Completed 
+3. As a user I want to exit the program whenever I want to                                                      Completed 
+4. As a user I want to be able to navigate through the file system				               					Completed 
+5. As a user I want to know the current working directory                                                       Completed                                                               
+6. As a user I want to know the history of my activity within the program 					 					Completed 
+7. As a user I want access previous working directories								  							Completed 
+8. As a user I want a manual like feature that allows me to look up certain things that I do not know           Completed 
+9.As a user I want to be able to modify a file                                                                 Completed 
+10.As a user I want to be able to make directory                                                                Completed 
+11.As a user I want to be able to redirect commands to a file that exists, or to be created						5 hours 
+12.As a user I want to know all the items in a directory (directories or files) and all subdirectories 			5 hours 
+13.As a user I want to be able to move items from one path to another 											10 hours 
+14.As a user I want to be able to copy items from one path to another											7 hours
+15.As a user I want to be able to display the content of one or multiple files									3 hours 
+16.As a user I want to be able to get a file from a URL and add it to the current working directory				6 hours
+17.As a user I want to be able to execute previous commands called												5 hours
+18.As a user I want to know all the lines containing a particular expression in a file or 						10 hours
+   for all files in a directory 	

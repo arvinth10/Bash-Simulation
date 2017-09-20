@@ -1,0 +1,11 @@
+Class name: Get
+
+Parent Class: command
+
+Subclasses: -
+
+Responsibilities: 
+	- Should use the url given by the user to get information on a webpage and store it
+
+Collaborators:
+	- Echo

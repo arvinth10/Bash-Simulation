@@ -1,0 +1,14 @@
+Class name: Directory
+
+Parent Class: File 
+
+Subclasses: - 
+
+Responsibilities: 
+
+* Keeps track of name and path of a directory
+* Track objects within the directory (like files and other directories)
+
+Collaborators: 
+* TextFile
+* Directory

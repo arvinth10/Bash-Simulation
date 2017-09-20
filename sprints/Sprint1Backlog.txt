@@ -1,0 +1,48 @@
+Sprint 1 Backlog.  
+February 17 to February 22
+
+a) Complete CRC cards
+
+User Stories from Product Backlog that we will address in this sprint:
+b) As a user I want to control the file system through keyboard inputs
+c) As a user I expect to be notified if I enter an invalid input
+d) As a user I want to exit the program whenever I want to   
+e) As a user I want to be able to make directory 
+f) As a user I want to be able to navigate through the file system  
+
+g) Update CRC cards
+
+Specific tasks to be accomplished:
+a-1. Collaborate together and pick the best set of CRC cards
+b-1. (JShell) Begin coding the structure of the command line interpreter
+b-2. (JShell) Have the shell continually prompt the user for input
+b-3. (JShell) Parse the user input for proper keywords
+b-4. (JShell) Check if commands entered by user is valid using a validator instance
+c-1. (Validator) Check if input is correct by looking at the number of arguments and the arguments itself
+c-2. (Validator) Print error message if input is invalid
+c-3. (Validator) Store every command entered by user and create a method that can return all these commands/user input
+d-1. (JShell) Stop program when exit command entered
+e-1. (Handler) Write the base code for the handler class 
+e-2. (Directory) write the base code for directory so you are able to create new directories when user wants to, and keep track of all directories
+e-3. (Directory) Write base code for directory class, do not need to completely implement it. Do it so you can use directory class for directory handler
+f-1. (Directory) Begin implementation of the directory class by adding appropriate instance variables
+f-2. (Directory) Find a way for a directory to keep track of its contents and implement it 
+f-3. (cd) Implement the class so user is able change the current directory to another directory given a file path
+f-4. (cd) Add method to the class by enabling the user to change the current directory to another directory that is relative to the current directory
+f-5. (cd) Add method to class so user can revert to the parent directory
+f-6. (cd) Add method to class so user can revert to the root directory 
+g-1. Update the CRC cards 
+
+These tasks are assigned as follows:
+
+User: Rixin
+Tasks: a-1, c-1, c-2, c-3, e-1, g-1
+
+User: Zaki
+Tasks: a-1, b-1, b-2, b-3, b-4, d-1, g-1
+
+User: Mathusan
+Tasks: a-1, e-3, f-4, f-5, f-6, g-1
+
+User: Arvinth
+Tasks: a-1, e-2, f-1, f-2, f-3, g-1

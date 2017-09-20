@@ -1,0 +1,12 @@
+Class name: STDERR
+
+Parent Class: - 
+
+Subclasses:
+
+Responsibilities:
+
+* Responsible for all error related outputs to console.
+ 
+Collaborators: - 
+

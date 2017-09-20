@@ -1,0 +1,11 @@
+Class Name: Cd
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Responsible for changing the current directory to a directory relative to the current directory or another directory given the directory's path
+
+Collaborators:
+Directory

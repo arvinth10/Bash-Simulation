@@ -1,0 +1,11 @@
+Class name: STDOUT
+
+Parent Class: - 
+
+Subclasses: 
+
+Responsibilities: 
+* Responsible for all non-error related output
+
+Collaborators: 
+

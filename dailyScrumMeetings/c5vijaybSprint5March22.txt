@@ -1,0 +1,14 @@
+What did I do last time?
+    - Complete Copy and Move classes and added a parent class to these two classes
+    called ChangeFileSystem
+    - Started Grep class
+
+What do I plan to do now?
+	- Complete Grep command
+	- Fix newObject method and possibly add it to another method to shorten total code
+	- Write a JUnit tests
+	- Implement Singleton design pattern 
+	- Document all code, and update CRC cards 
+	
+Am I blocked on anything?
+    - How am I recursively going to search through a directory? 

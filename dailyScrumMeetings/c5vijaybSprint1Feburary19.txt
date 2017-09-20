@@ -1,0 +1,11 @@
+What did I do last time?
+    - worked on CRC cards
+    - discussed how to make our CRC cards better
+    - started DirectoryHandler.java 
+
+What do I plan to do now?
+	- Edit the CRC cards so everyone is satisfied
+    - finish DirectoryHandler.java
+
+Am I blocked on anything?
+    - No

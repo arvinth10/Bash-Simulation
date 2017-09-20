@@ -1,0 +1,12 @@
+What did I do last time?
+    - worked on pwd class
+    - updated crcCards 
+
+What do I plan to do now?
+    - change the method on cat.
+    - new changes on crcCards
+    - preparing for sprint3
+        
+Am I blocked on anything?
+    - Yes I need file class
+ 

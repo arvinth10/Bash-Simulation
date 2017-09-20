@@ -1,0 +1,14 @@
+Class name: TextFile
+
+Parent Class: File
+
+Subclasses: -
+
+Responsibilities:
+
+* Keeps track of name and path of a TextFile
+* Track text content within a Text File.
+* Edit contents within a Text File
+
+Collaborators: - 
+

@@ -1,0 +1,12 @@
+Class Name: Pushd
+
+Parent Class: Command
+
+Subclasses: -
+
+Responsibilities:
+ - Change the directory to the path given by user, at the same time save the current working directory to a directory stack. 
+
+Collaborators:
+ - Stderr
+ - Cd

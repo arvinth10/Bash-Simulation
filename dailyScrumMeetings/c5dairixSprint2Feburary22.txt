@@ -1,0 +1,12 @@
+What did I do last time?
+    - Created Handler class to track the current path
+    - Created Validator class to check the correctness of input command
+
+What do I plan to do now?
+	- Try to make clear the responsibilities of every class
+	- Consider the plan for next sprint
+	- Update CRC cards 
+
+Am I blocked on anything?
+    - Confusing responsibilities for every class
+    - need a method to get the contents of a directory given its name or path

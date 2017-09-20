@@ -1,0 +1,12 @@
+What did I do last time?
+    - Completed product backlog
+    - Added Move class for MV command and started code 
+    
+
+What do I plan to do now?
+	- Finish Move class
+	- Update path changer in Command class so it returns absolute path values
+	- Start the Copy class
+	
+Am I blocked on anything?
+    - Nope

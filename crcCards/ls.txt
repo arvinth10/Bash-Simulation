@@ -1,0 +1,16 @@
+Class Name: Ls
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities:
+- Be able to get the list of files and directories in a directory, given an absolute or relative path.
+
+Collaborators: 
+- Stderr
+- Handler
+- FileSystem
+- Stdout
+- Directory
+- Cd

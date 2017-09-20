@@ -1,0 +1,14 @@
+                           User Stories                                                                   Time Estimate (Hours)
+
+1. As a user I want to control the file system through keyboard inputs				                  2 Hours
+2. As a user I expect to be notified if I enter an invalid input                                                  2 Hours
+3. As a user I want to exit the program whenever I want to                                                        1 Hours
+4. As a user I want to be able to navigate through the file system				                 16 Hours
+5. As a user I want to be able to display the content of the file                                                 4 Hours
+6. As a user I want to know the current working directory                                                         5 Hours                                                                 
+7. As a user I want to know the history of my activity within the program 					  2 Hours
+8. As a user I want access previous working directories								  6 Hours
+9. As a user I want a manual like feature that allows me to look up certain things that I do not know             4 Hours
+10.As a user I want to be able to modify a file                                                                   5 Hours
+11.As a user I want to know the list of directories or files                                                      5 Hours
+12.As a user I want to be able to make directory                                                                  5 Hours

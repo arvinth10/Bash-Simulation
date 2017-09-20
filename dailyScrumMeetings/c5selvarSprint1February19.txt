@@ -1,0 +1,15 @@
+What did I work on last time?
+	- Finished up most of the crc Cards with group, still need to fix some crc cards, given the feedback from prof Abbass 
+	- Finished up the product backlog with group
+	- Finished the sprint1 backlog and assigned the tasks to all group members
+	- Began brainstorming how to implement and code the classes required to complete my tasks in the current sprint
+
+What do I plan to do now?
+	- Finish all crc cards and update them according to professors feedback 
+	- Begin to work on the writing base code for directory
+	- Start implementing the ls command in ls class.
+	- Start implmenting the cd command
+
+Am I blocked on anything?
+	- Need to create a prototype for ls, cd, and directory class to begin coding.
+

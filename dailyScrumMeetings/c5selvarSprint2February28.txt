@@ -1,0 +1,15 @@
+What did I do last time?
+	- Added two methods to Directory Class that will check if a given file or directory exists in the current directory
+	- Updated textFile class by adding methods that will allow clients to retrieve contents of a file object and also be able to edit file object contents
+	- Did the basic implementation of the Stdout class, so that it will print out an array if given or just any regular non-error related outputs
+	- Fully Implemented the History command class that will store all commands entered by user. Also it will return history however user wants
+
+What do I plan to do now?
+	- Finish all tasks on sprint 3
+	- Try to finish my part as soon as possible to be able to collaborate with other group members to put the project together and get a working program
+	- Implement an stderr class that will return all error related outputs
+	- Begin testing
+
+Am I blocked on anything?
+	- Need to figure out how to implement a method that will take a valid path and return the directory or file that is associated with that path
+	- This will help me complete implementing Mkdir Command

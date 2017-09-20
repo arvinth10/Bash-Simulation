@@ -1,0 +1,12 @@
+Class Name:  mkdir
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Create a directory with a given path, which can be either absolute or relative
+
+Collaborators:
+* Directory
+* Stderr

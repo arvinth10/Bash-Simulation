@@ -1,0 +1,11 @@
+What did I do last time?
+    - And toAbsolutePath method in Command Class
+    - Implemented most of the Move command
+
+What do I plan to do now?
+	- Finish remaining move command
+	- Start the copy command
+	- Make sprint 5 backlog 
+	
+Am I blocked on anything?
+    - Nope

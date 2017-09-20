@@ -1,0 +1,12 @@
+What did I work on last time?
+   - Almost done implementing new ls addition
+   - Made changes to ls to make it more modular
+What do I plan to do now?
+   - Fix errors in history command (error came after implementation of the new addition requirements)
+   - Complete tasks for A2
+   - Change FileSystem and Handler classes interms of sigleton design pattern
+   - Add testcases to existing JUnit tests for new additions of the existing classes
+   - Create JUnit Tests for new classes I made
+
+Am I blocked on anything?
+   - nothing at the moment

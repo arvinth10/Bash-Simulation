@@ -1,0 +1,35 @@
+Sprint 5 Backlog
+March 21 to March 25
+
+a) Complete any uncompleted tasks from assignment 2A
+
+User Stories from Product Backlog that we will address in this sprint:
+
+b) As a user I want to be able to redirect commands to a file that exists, or to be created
+c) As a user I want to be able to get a file from a URL and add it to the current working directory
+d) As a user I want to know all the lines containing a particular expression in a file or for all files in a directory
+
+e) Update Unit Tests
+f) Update CRC cards
+
+Specifc tasks to be accomplished:
+
+a-1) Get the new addition in History and Ls working
+a-2) Change newObject method so that it only takes an absolute path as parameter
+a-3) Check if addtoFileSystem method and newObject method can be combined
+b-1) Create another command class that can be used within other command classes to redirect output
+c-1) Create a command called get, that takes in a URL and retrieves content from that URL
+d-1) Create a grep command that prints any lines containing REGEX in the Path, and complete the class to match specifications on A2B handout.
+e-1) Add Unit Tests for new methods and add test cases for new addons
+f-1) Add new CRC cards for new classes and make changes to the CRC cards of any classes that were changed in A2B
+
+These tasks are assigned as follows: 
+
+User: c5selvar
+Tasks: a-1, c-1, e-1, f-1
+
+User: c5vijay
+Tasks: d-1, a-2, a-3, e-1, f-1
+
+User: c5dairix
+Tasls: b-1, e-1, f-1

@@ -1,0 +1,13 @@
+Class Name: FileSystem
+
+Parent Class: -
+
+Subclasses: -
+
+Responsibilities:
+- Keep track of all directories and paths in the system and know their respective paths.
+
+
+Collaborators:
+* TextFile
+* Directory

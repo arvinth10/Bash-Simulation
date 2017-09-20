@@ -1,0 +1,13 @@
+Class Name: man
+
+Parent Class: Command
+
+Subclasses: -
+
+Responsibilities:
+ - Provide a manual for the given command so user knows how to use it, and let user know what it does.
+
+Collaborators:
+ - Stdout
+
+

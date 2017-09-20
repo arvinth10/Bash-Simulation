@@ -1,0 +1,11 @@
+Class Name: pwd
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities:
+* gets the current working directory
+
+Collaborators:
+* Stdout 

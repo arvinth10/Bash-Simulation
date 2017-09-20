@@ -1,0 +1,12 @@
+What did I do last time?
+    - Redesign our program according to prof's suggestion
+    - Working with some commands with teammate
+
+What do I plan to do now?
+	- Adding some methods to Validtor
+	- Creating the FileSystem class
+	
+Am I blocked on anything?
+    - Need to decide what content should File class have
+    
+   

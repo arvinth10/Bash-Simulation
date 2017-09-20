@@ -1,0 +1,26 @@
+Class Name: Recall
+
+Parent Class: Command
+
+Subclasses: -
+
+Responsibilities:
+* Re-execute any input that is specify by the number of history user calls 
+
+
+Collaborators:
+Cat
+Cd
+Copy
+Echo
+Get
+Grep
+Ls
+History
+Man
+Mkdir
+Move
+Popd
+Pushd
+Pwd
+Recall

@@ -1,0 +1,11 @@
+What did I do last time?
+    - created and modified the CRC cards to meet the requirements
+    - Came up with a product backlog 
+    - Got clear with my own part of tasks 
+
+What do I plan to do now?
+	- Finishing the CRC cards to reach a consensus in the team
+    - produce the class of Handler
+
+Am I blocked on anything?
+    - Not yet

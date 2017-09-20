@@ -1,0 +1,15 @@
+What did I do last time?
+    - Changes to Cd so methods are not repeated in other classes 
+    - Completed Ls
+    - Added Hashtables to FileSystem
+    
+
+What do I plan to do now?
+	- Finish the FileSystem
+	- Complete the implementation of echo based on new FileSystem
+	- Continue onto Sprint 3 
+	- Collaborate with group to get everything working together
+	- Create JUnit tests 
+	
+Am I blocked on anything?
+    

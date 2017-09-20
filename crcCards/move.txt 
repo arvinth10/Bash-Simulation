@@ -1,0 +1,13 @@
+Class Name:  Move 
+
+Parent Class: ChangeFileSystem
+
+Subclasses: None
+
+Responsibilities:
+* Moves directories and text file given a path to another path
+* If initial path is a directory, it must be moved to another directory
+* If initial path is a text file, then it can be move to another text file to overwrite, or a directory 
+
+Collaborators:
+

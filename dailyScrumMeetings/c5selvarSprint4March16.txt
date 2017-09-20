@@ -1,0 +1,11 @@
+What did I do last time?
+	- Thought of design for my tasks
+	- Wrote down how I am going to implement those tasks 
+
+What do I plan to do now?
+	- Fix bug in validator class 
+	- Add to the ls clss so you can recursively get contents of a directory and all its subdirectories
+	- Complete the cat command
+
+Am I blocked on anything?
+	- Nothing at the moment 

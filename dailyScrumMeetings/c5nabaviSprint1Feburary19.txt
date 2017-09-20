@@ -1,0 +1,12 @@
+What did I do last time?
+    - worked on JShell
+    - brainstormed design ideas with team for crcCards and productBacklog. 
+
+What do I plan to do now?
+    - We decided to edit the design for our crcCards
+    - finish JShell.
+    - work on new tasks for sprint 2
+        
+Am I blocked on anything?
+    - Not now.
+ 

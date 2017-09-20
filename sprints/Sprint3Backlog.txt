@@ -1,0 +1,41 @@
+Sprint 3 Backlog
+February 29 to March 7
+
+a) Complete Unfinished previous tasks
+
+User Stories froim Product Backlog that we will address in this sprint:
+
+b) As a user I want to know the list of directories or files
+c) As a user I want a manual like feature that allows me to look up certain things that I do not know
+d) As a user I want to be notified if I enter an invalid input
+
+e) Tie program together and get a working product
+f) Test the program
+
+Specific tasks to be accomplished:
+
+a-1) (Cat) Finish implementing Cat class
+a-2) (History) Complete implementing History class
+a-3) (stderr) implement a class that is responsible for error related output
+a-4) (echo) Complete implementation of the echo class
+b-1) (ls) Implement a class that will give list of all directories within a given directory
+c-1) (man) Create a class that will give a manual for all different commands
+d-1) (FileSystem) need to create a file system class that will take a code passed by command classes and identify which error it is (can use hashtables).
+ 	- (FileSystem) All command classes will collaborate with the FileSystem class to pass any error codes encountered during the execution of the execute method (a method contained by all command classes).
+	- (FileSystem) FileSystem should collaborate with stderr class to output errors (just call methods made in stderr to print error outputs).
+e-1) Collaborate as a group to tie the program by executing commands based on user input in JShell
+f-1) Write JUnit tests for the program and make sure program passes all test cases
+
+These tasks are assigned as follows:
+
+User: Zaki
+Tasks: a-1, c-1, e-1, f-1
+
+User: Mathusan
+Tasks: a-2, a-3, e-1, f-1
+
+User: Arvinth
+Tasks: b-1, a-4, e-1, f-1
+
+User: Rixin
+Tasks: d-1, e-1, f-1  

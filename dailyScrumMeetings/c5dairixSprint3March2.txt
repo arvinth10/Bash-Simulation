@@ -1,0 +1,10 @@
+What did I do last time?
+	- Created pushd and popd classes
+	- Created File class 
+	- Modified the checkPath method in the Validator class
+What do I plan to do now?
+	- Finishing up the FileSystem Class
+
+
+Am I blocked on anything?
+	- Clear up the idea of connecting the path to the contents

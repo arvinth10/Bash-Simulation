@@ -1,0 +1,12 @@
+What did I do last time?
+    - worked on JShell
+    - worked on Cat class. 
+
+What do I plan to do now?
+    - We decided edit the design for our crcCards
+    - finish JShell.
+    - work on new tasks for sprint 2
+        
+Am I blocked on anything?
+    - I needed Command as a parent class.
+ 

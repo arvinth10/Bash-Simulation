@@ -1,0 +1,9 @@
+What did I do last time?
+	- Add a method to History to get the specific history
+	- Add a method to stdout to print the history correctly
+
+What do I plan to do now?
+	- Finishing the !number class
+
+Am I blocked on anything?
+	- Confused about the function of !number

@@ -1,0 +1,16 @@
+Class Name:  ChangeFileSystem
+
+Parent Class: Command
+
+Subclasses: Move, Copy
+
+Responsibilities:
+* Covers common responsibilities between Move and Copy class which is the helpExecute method
+* Get object and move/copy it if possible, or call error message
+
+Collaborators:
+* File
+* Directory
+* TextFile
+* FileSystem
+* Stderr

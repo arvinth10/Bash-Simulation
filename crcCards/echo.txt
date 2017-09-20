@@ -1,0 +1,17 @@
+Class Name: echo
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities:
+
+* Adds a string to a given file if a unique argument is used when calling the command
+* creates a new file if the given file does not exist
+* Can overwrite the text if a unique argument is used when calling the command
+* Can print to system when no file is given 
+
+Collaborators:
+* TextFile
+* FileSysem
+* Stderr

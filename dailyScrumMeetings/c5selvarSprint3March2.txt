@@ -1,0 +1,13 @@
+What did I do last time?
+	- Changed implementation of Directory class since we have decided to use Hashtables to store directories/Files with the path as the key
+		- Previously had a nested list and was difficult to find a directory/file object given a path using recursion.
+	- Updated Mkdir class such that it works with new implementation
+What do I plan to do now?
+	- Complete implementation of stderr class
+	- Help teammates and complete implementation of other classes
+	- Get Jshell running
+	- Start writting JUnitTests for all the classes with the team
+
+Am I blocked on anything?
+	Nothing at the moment
+

@@ -1,0 +1,17 @@
+What did I do last time?
+	- Completed Mkdir class
+	- Almost have done implementing ls class
+	- Helped implement FileSystem class
+	- Completed JShell and validator class, such that basic inputs work
+	- Updated PWD class to work
+
+What do I plan to do now?
+	- Complete ls class
+	- Complete implementing Cat class
+	- Complete JUnit tests for my classes
+	- Add JavaDocs for all methods of my classes
+
+Am I blocked on anything?
+	- Need teammate to add a method in FileSystem that will return a File object given a path. This will allow me to complete ls class.
+	- Also will allow me to complete the cat class
+	- This addition will help teammate complete echo class.

@@ -1,0 +1,12 @@
+Class Name: History
+
+Parent Class: Command
+
+Subclasses: -
+
+Responsibilities:
+* Keep track of user input history
+* Be able to provide the history of user input
+
+Collaborators:
+

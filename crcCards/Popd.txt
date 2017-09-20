@@ -1,0 +1,11 @@
+Class Name: Popd
+
+Parent Class: Command
+
+Subclasses: -
+
+Responsibilities:
+- Retrieve the last saved path by user, from the directory stack, and make it the current working directory.
+
+Collaborators:
+ - Stderr

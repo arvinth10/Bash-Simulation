@@ -1,0 +1,42 @@
+Sprint 2 Backlog
+February 23 to February 28
+
+a) Complete unfinished previous tasks
+
+User Stories from Product Backlog that we will adress in this sprint:
+b) As a user I want to be able to make a directory
+c) As a user I want to be able to know the current working directory
+d) As a user I want to know the list of directories or files
+d) As a user I want to be able to display the content of a the file
+e) As a user I want to be able to modify a file
+f) As a user I want to know the history of my activity within the program
+g) As a user I want to know the list of directories or files
+h) As a user I want to acess previous working directories
+h) Update CRC cards
+
+Specific tasks to be accomplished:
+
+a-1) (JShell) Make some edits to JShell class, which will complete it
+b-1) (mkdir) Implement the mkdir class
+c-1) (pwd) Implement pwd class
+d-1) (cat) Implement cat class, so you add the functionality for user to print contents of file
+e-1) (echo) Implement an echo class that will execute both types of echo commands (one that appends the string to file, and one that overwrites the string in the file)
+f-1) (history) Implement the history class such that user is able to get history of recent commands entered
+g-1) (ls) Implement the ls class completely
+h-1) (pushd) Implement a pushd class that will push the current working directory onto Directory Stack
+h-2) (popd) Implement a popd class that will remove the top entry from the directory stack and complete the rest of the functionalities for this command
+  
+These tasks are assigned as follows:
+
+User: Zaki
+Tasks: a-1, d-1, c-1
+
+User Mathusan
+Tasks: f-1, b-1
+
+User Arvinth
+Tasks: e-1, g-1 
+
+User Rixin
+Tasks: h-1. h-2
+

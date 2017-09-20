@@ -1,0 +1,8 @@
+What did I do last time?
+	- Fixed some bugs in validator that did not allow some methods to work from A2a
+	- Almost done new addition task for cat command, have a small confusion
+What do I plan to do now?
+	- Complete the task of cat implementation
+	- Fix the implementation of recursive feature implementation of ls command (There is an error)
+Am I blocked on anything?
+	- Not sure exactly what to add to the cat command, I may have already implemented it in A2a. 

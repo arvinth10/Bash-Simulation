@@ -1,0 +1,9 @@
+What did I do last time?
+	- Added the functionality for user to be able to redirect all standard output to a file
+	- Fixed the ls recursive functionaliry, and also the recalling function (!number) so that it works
+	- Added and implemented the getcommand class
+What do I plan to do now?
+	- Complete crc cards
+	- Add Junit tests for new classes
+Am I blocked on anything?
+	- Nothing at the moment

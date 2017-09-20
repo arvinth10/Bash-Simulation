@@ -1,0 +1,13 @@
+Class Name: command
+
+Parent Class:
+
+Subclasses:
+Mkdir, Cd, Ls, Pwd, Pushd, Popd, History, Man, Cat,and Echo
+
+Responsibilities:
+- Manipulate any path argument so it can be easily worked into the system.
+
+Collaborators:
+Cd, Handler
+

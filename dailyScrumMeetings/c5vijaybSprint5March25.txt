@@ -1,0 +1,16 @@
+What did I do last time?
+    - Updated move and copy commands fixing some errors
+    - Completed grep command
+    - Made newObject method shorter, removing code not needed 
+
+What do I plan to do now?
+	- Complete the move and copy command so it recursively copies/moves all 
+	directories within a directory
+	- Document all code and update CRC cards
+	- Fix newObject method and possibly add it to another method to shorten total code
+	- Write a JUnit tests
+	- Implement Singleton design pattern 
+	- Document all code, and update CRC cards 
+	
+Am I blocked on anything?
+    - How do I recursively move directories within a directory

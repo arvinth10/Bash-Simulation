@@ -1,0 +1,13 @@
+What did I do last time?
+    - Fixed up Cd and Echo classes so they can be inherited by Command class
+    - Cd now takes Handler object as parameter to change working directory 
+    - Added Ls class 
+
+What do I plan to do now?
+	- Complete the Ls class
+	- Continue onto Sprint 3 
+	- Collaborate with group to get everything working together
+	- Create JUnit tests 
+	
+Am I blocked on anything?
+    - How do I check if a file exists from an absolute or relative path? 

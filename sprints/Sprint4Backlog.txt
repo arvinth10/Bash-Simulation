@@ -1,0 +1,39 @@
+Sprint 4 Backlog
+March 14 to March 19
+
+a) Complete any uncompleted tasks from assignment 2A 
+
+User Stories from Product Backlog that we will address in this sprint:
+
+b) As a user I want to know all the items in a directory (directory or files) and its subdirectories
+c) As a user I want to be able to move items from one path to another
+d) As a user I want to be able to copy items from one path to another
+e) As a user I want to be able to display the content of one or multiple files
+f) As a user I want to execute previous commands called
+
+
+
+
+
+
+Specific tasks to be accomplished:
+
+a-1) (Validator) Fix error in validator so double dots can be used for pushd command
+b-1) Add to the ls class so you can recursively get contents of a directory and all its subdirectories
+c-1) Create a new command class called move
+c-2) Create an execute method in move class which will be used to execute the move command
+d-1) Create a new command class called copy
+d-2) Create an execute method in copy class which will be used to execute the copy command
+e-1) Add to the cat command to enable this functionality
+f-1) Can add to the history command to enable this functionality
+
+These tasks are assigned as follows:
+
+User: c5selvar 
+Tasks: a-1, b-1, e-1
+
+User c5vijay
+Tasks: c-1, c-2, d-1, d-2
+
+User c5dairix
+Tasks: b-1, f-1

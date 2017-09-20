@@ -1,0 +1,13 @@
+Class name: Validator
+
+Parent Class: -
+
+Subclasses: - 
+
+Responsibilities: 
+* Checks if user input is valid.
+* Manipulates paths (if user had entered) and checks if such paths exist in the file system.
+
+Collaborators: 
+ - Handler
+ - FileSystem

@@ -1,0 +1,11 @@
+Class name: File
+
+Parent Class: - 
+
+Subclasses: TextFile, Directory 
+
+Responsibilities:
+
+* Cover any common responsibilities between TextFile class and Directory Class. (Like getting the name or path of a file)
+
+Collaborators: -
